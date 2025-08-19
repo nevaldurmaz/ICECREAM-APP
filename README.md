@@ -38,7 +38,7 @@ Responsive tasarımı, Redux ile güçlü state yönetimi ve Tailwind CSS ile ş
 Projeyi bilgisayarında çalıştırmak için:
 
 # Repoyu klonla
-git clone https://github.com/kullanici-adin/ice-cream-app.git
+git clone https://https://github.com/nevaldurmaz/ICECREAM-APP.git
 cd ice-cream-app
 
 # Bağımlılıkları yükle
